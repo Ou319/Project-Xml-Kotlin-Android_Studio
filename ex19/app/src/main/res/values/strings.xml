@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ex19</string>
+    <string name="text1"> Custome Shapes</string>
+    <string name="text2"> hello man</string>
+    <string name="text_btn"> chnage bg</string>
+
+</resources>
